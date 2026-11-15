@@ -1,0 +1,48 @@
+# Sujets d'articles à venir pour Vieillir chez soi (un tous les 2 jours)
+# Format : - [ ] slug/ | requête visée | catégorie | angle
+# Cocher [x] une fois publié. Prendre toujours le premier sujet non coché.
+
+- [x] comment-choisir-siege-de-douche/ | siège de douche personne âgée | Salle de bains | publié au lancement
+- [x] deambulateur-ou-rollator/ | déambulateur ou rollator | Se déplacer | publié au lancement
+- [x] barre-d-appui-salle-de-bain/ | barre d'appui salle de bain | Salle de bains | publié au lancement
+- [x] telephone-portable-senior/ | téléphone portable senior | Vie quotidienne | publié au lancement
+- [x] rehausseur-wc/ | rehausseur WC | Salle de bains | avec ou sans accoudoirs, hauteur, fixation, hygiène
+- [x] fauteuil-releveur/ | comment choisir un fauteuil releveur | Chambre et repos | 1 ou 2 moteurs, taille, tissu, essayer avant
+- [x] detecteur-de-chute/ | détecteur de chute personne âgée | Sécurité | montre, pendentif, capteurs, limites, renvoi téléassistance
+- [x] comment-choisir-rollator/ | comment choisir un rollator | Se déplacer | 3 ou 4 roues, poids, freins, siège, pliage
+- [x] planche-de-bain/ | planche de bain senior | Salle de bains | planche ou siège de baignoire, largeur, sécurité
+- [x] pilulier/ | quel pilulier choisir | Vie quotidienne | semaine, électronique avec alarme, rester général santé
+- [x] canne-de-marche/ | comment choisir une canne de marche | Se déplacer | réglage, embout, pliante, tripode
+- [x] veilleuse-detecteur-de-mouvement/ | veilleuse détecteur de mouvement senior | Sécurité | trajets de nuit, piles ou prise
+- [x] prevenir-les-chutes-a-la-maison/ | prévenir les chutes à la maison | Sécurité | gestes et habitudes au quotidien (lever, chaussures, médicaments, activité), renvoi au guide pièce par pièce et au médecin
+- [x] telephone-fixe-grosses-touches/ | téléphone fixe grosses touches | Vie quotidienne | amplifié, photos, sans fil
+- [x] pince-de-prehension/ | pince de préhension | Vie quotidienne | longueur, aimant, pliante
+- [ ] tapis-antiderapant-douche/ | tapis antidérapant douche | Salle de bains | ventouses, entretien, alternatives
+- [ ] bouton-appel-urgence-senior/ | bouton d'appel d'urgence senior | Sécurité | pendentif, bracelet, avec ou sans abonnement
+- [ ] teleassistance-comment-ca-marche/ | téléassistance comment ça marche | Sécurité | principe, qui répond, rester général sur les aides
+- [ ] adapter-salle-de-bain-personne-agee/ | adapter la salle de bain d'une personne âgée | Salle de bains | priorités, petits achats puis travaux
+- [ ] chaise-percee/ | chaise percée | Chambre et repos | usage nocturne, accoudoirs, entretien
+- [ ] cadre-de-toilettes/ | cadre de toilettes accoudoirs | Salle de bains | réglage, sans perçage
+- [ ] fauteuil-roulant-de-transfert/ | fauteuil roulant de transfert | Se déplacer | poids, pliage, usage occasionnel
+- [ ] rampe-acces-seuil/ | rampe d'accès seuil de porte | Se déplacer | hauteur de marche, pente, portable ou fixe
+- [ ] main-courante-escalier/ | main courante escalier | Sécurité | des deux côtés, fixation, éclairage
+- [ ] couverts-ergonomiques/ | couverts ergonomiques | Vie quotidienne | manche épais, coudés, vaisselle antidérapante
+- [ ] horloge-calendrier-senior/ | horloge calendrier senior | Vie quotidienne | lisibilité, rappels
+- [ ] loupe-electronique/ | loupe électronique de lecture | Vie quotidienne | grossissement, éclairage, renvoi ophtalmologiste
+- [ ] casque-tv-senior/ | casque TV sans fil senior | Vie quotidienne | réglage volume, recharge, confort, renvoi audioprothésiste
+- [ ] coussin-anti-escarres/ | coussin anti-escarres | Chambre et repos | types, rester général, renvoi professionnel de santé
+- [ ] lit-medicalise-achat-ou-location/ | lit médicalisé achat ou location | Chambre et repos | location fréquente, prescription, vérifier sur ameli
+- [ ] barriere-de-lit/ | barrière de lit adulte | Chambre et repos | prudence, alternatives, avis professionnel
+- [ ] table-de-lit/ | table de lit à roulettes | Chambre et repos | hauteur réglable, plateau inclinable
+- [ ] chaussures-personne-agee/ | chaussures pour personne âgée | Se déplacer | maintien, semelle, fermeture velcro
+- [x] cadeau-personne-agee/ | cadeau utile pour personne âgée | Conseils pour les proches | idées par budget et par besoin
+- [ ] parler-a-un-parent-age-de-son-logement/ | comment convaincre un parent âgé d'adapter son logement | Conseils pour les proches | en parler sans brusquer, faire accepter les aides, renvoi au guide pièce par pièce
+- [ ] materiel-maintien-domicile-acheter-ou-louer/ | matériel maintien à domicile acheter ou louer | Conseils pour les proches | ce qui se loue, prescription
+- [ ] boite-a-cle-securisee/ | boîte à clé sécurisée | Sécurité | aides à domicile, secours, code
+- [x] aides-adapter-logement-senior/ | aides pour adapter son logement senior | Conseils pour les proches | uniquement les dispositifs vérifiés sur service-public.fr ou france-renov.gouv.fr, sinon rester général
+- [x] meilleur-telephone-portable-senior/ | meilleur téléphone portable senior | Vie quotidienne | comparatif publié le 15 nov 2026 (modèles vérifiés sur les sites fabricants)
+- [x] meilleur-rollator/ | meilleur rollator | Se déplacer | comparatif publié le 15 nov 2026 (fiches techniques vérifiées)
+- [x] meilleur-fauteuil-releveur/ | top produits | | publié le 15 nov 2026 (modèles vérifiés)
+- [x] meilleur-siege-de-douche/ | top produits | | publié le 15 nov 2026 (modèles vérifiés)
+- [x] meilleur-casque-tv-senior/ | top produits | | publié le 15 nov 2026 (modèles vérifiés)
+- [x] meilleur-detecteur-de-chute/ | top produits | | publié le 15 nov 2026 (modèles vérifiés)
