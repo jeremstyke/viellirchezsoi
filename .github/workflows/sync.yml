@@ -1,0 +1,32 @@
+name: Synchronisation du site
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '25 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Construire le site depuis jeremstyke.github.io
+        run: |
+          git clone --depth 1 https://github.com/jeremstyke/jeremstyke.github.io /tmp/old
+          rm -rf src docs
+          cp -r /tmp/old/.work/vieillirchezsoi/src src
+          cp /tmp/old/.work/vieillirchezsoi/sujets.md /tmp/old/.work/vieillirchezsoi/tops.md .
+          mkdir -p docs
+          cp -r /tmp/old/vieillirchezsoi/assets docs/
+          cp -r /tmp/old/vieillirchezsoi/og docs/
+          python3 src/build.py
+          rm -rf src/__pycache__
+          printf '__pycache__/\n' > .gitignore
+      - name: Publier
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898499+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || (git commit -m "Synchronisation du site" && git push)
