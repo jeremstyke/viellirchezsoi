@@ -1,8 +1,11 @@
 # Tops 10 à venir pour Vieillir chez soi (un par jour)
 # Format : - [ ] slug/ | requête visée | catégorie | produits à couvrir
-# Déjà publiés : meilleur-telephone-portable-senior/, meilleur-rollator/, meilleur-fauteuil-releveur/, meilleur-siege-de-douche/, meilleur-casque-tv-senior/, meilleur-detecteur-de-chute/, meilleur-rehausseur-wc/
+# Déjà publiés : meilleur-telephone-portable-senior/, meilleur-rollator/, meilleur-fauteuil-releveur/, meilleur-siege-de-douche/, meilleur-casque-tv-senior/, meilleur-detecteur-de-chute/, meilleur-rehausseur-wc/, meilleur-fauteuil-roulant-electrique-pliant/, meilleur-scooter-electrique-senior/
 
 - [x] meilleur-rehausseur-wc/ | meilleur rehausseur WC | Salle de bains | avec et sans accoudoirs, fixation
+- [x] meilleur-fauteuil-roulant-electrique-pliant/ | meilleur fauteuil roulant électrique pliant de voyage | Se déplacer | top 10 de fauteuils roulants électriques pliants vendus sur Amazon.fr (poids, autonomie, charge max, largeur pliée, batterie amovible) ; h1 « Meilleur fauteuil roulant électrique pliant de voyage » et title « Fauteuil roulant électrique pliant de voyage : top 10 2026 » ; angle : léger, compact, facile à mettre dans un coffre, compatible avion si la fiche l'indique ; une phrase courte en intro : sur prescription, un fauteuil peut être pris en charge à 100 % depuis le 1er décembre 2025, lien {R}fauteuil-roulant-rembourse-100/ ; sans Easwe
+- [x] meilleur-scooter-electrique-senior/ | meilleur scooter électrique pour senior | Se déplacer | scooters PMR 3 et 4 roues, pliables, sans Easwe
+- [ ] meilleur-tricycle-electrique-senior/ | meilleur tricycle électrique senior | Se déplacer | tricycles adultes à assistance électrique
 - [ ] meilleur-deambulateur/ | meilleur déambulateur | Se déplacer | fixe, 2 roues, pliant
 - [ ] meilleure-canne-de-marche/ | meilleure canne de marche | Se déplacer | pliante, réglable, tripode, quadripode
 - [ ] meilleur-pilulier-electronique/ | meilleur pilulier électronique | Vie quotidienne | alarme, distributeur automatique
@@ -32,3 +35,21 @@
 - [ ] meilleur-detecteur-de-fumee/ | meilleur détecteur de fumée | Sécurité | NF, autonomie, connecté
 - [ ] meilleur-coussin-pivotant-voiture/ | meilleur coussin pivotant voiture senior | Se déplacer | entrer et sortir de la voiture
 - [ ] meilleur-oxymetre/ | meilleur oxymètre de pouls | Vie quotidienne | dispositif médical si lu ; renvoi médecin
+- [ ] meilleur-elevateur-de-bain/ | meilleur élévateur de bain | Salle de bains | sièges élévateurs de baignoire électriques
+- [ ] meilleure-chaise-de-douche-a-roulettes/ | meilleure chaise de douche à roulettes | Salle de bains | chaises garde-robe et douche à roulettes
+- [ ] meilleure-chaise-percee/ | meilleure chaise percée | Chambre et repos | fixe, pliante, à roulettes
+- [ ] meilleur-cadre-de-toilettes/ | meilleur cadre de toilettes | Salle de bains | réglable, sans perçage
+- [ ] meilleure-barre-de-lit/ | meilleure barre de lit pour se relever | Chambre et repos | poignées et barres d'appui de lit
+- [ ] meilleur-fauteuil-roulant-manuel-pliant/ | meilleur fauteuil roulant manuel pliant | Se déplacer | léger, de transfert, autopropulsé ; achat sans prescription, renvoi vers fauteuil-roulant-rembourse-100/
+- [ ] meilleur-telephone-senior-a-clapet/ | meilleur téléphone senior à clapet | Vie quotidienne | 4G VoLTE uniquement
+- [ ] meilleure-sonnette-sans-fil-flash/ | meilleure sonnette sans fil avec flash | Vie quotidienne | pour malentendants : flash, vibreur, volume fort
+- [ ] meilleur-reveil-vibrant/ | meilleur réveil vibrant | Vie quotidienne | coussin vibrant, flash, pour malentendants
+- [ ] meilleur-amplificateur-telephone/ | meilleur amplificateur de téléphone fixe | Vie quotidienne | amplification de l'écoute et de la sonnerie
+- [ ] meilleur-eclairage-led-escalier/ | meilleur éclairage LED d'escalier à détecteur | Sécurité | spots de marche, bandes LED
+- [ ] meilleur-thermometre-sans-contact/ | meilleur thermomètre sans contact | Vie quotidienne | frontal, lisible ; renvoi médecin
+- [ ] meilleure-montre-gps-senior/ | meilleure montre GPS pour senior | Sécurité | localisation, appel d'urgence ; rester général sur les maladies, renvoi médecin
+- [ ] meilleure-vaisselle-adaptee/ | meilleure vaisselle adaptée pour senior | Vie quotidienne | assiettes à rebord, tasses à deux anses, antidérapant
+- [ ] meilleur-fauteuil-de-bureau-senior/ | meilleur fauteuil confortable pour senior | Chambre et repos | assise haute, accoudoirs, sans moteur
+- [ ] meilleur-repose-jambes/ | meilleur repose-jambes | Chambre et repos | pouf, coussin incliné ; renvoi médecin en cas de problème circulatoire
+- [ ] meilleure-lampe-de-lecture-senior/ | meilleure lampe de lecture pour senior | Vie quotidienne | lumière forte, bras articulé, loupe
+- [ ] meilleure-balance-parlante/ | meilleure balance parlante | Vie quotidienne | pour malvoyants, grand écran
