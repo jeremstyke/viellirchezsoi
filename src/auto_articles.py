@@ -2434,3 +2434,602 @@ g("meilleurs-livres-gros-caracteres/",
        ("Le texte est-il raccourci dans les éditions en gros caractères ?", "Non : selon le site spécialisé ActuaLitté, qui présente l'éditeur À vue d'œil, le texte d'origine n'est pas modifié, seule la mise en page change. C'est pourquoi un roman occupe souvent deux volumes."),
        ("Avez-vous lu tous ces livres ?", "Non. Cette sélection repose sur les fiches des éditeurs et des libraires. Nous ne donnons ni note ni avis de lecture ; vérifiez toujours l'éditeur de l'édition que vous commandez.")],
   short="Top 10 livres en gros caractères", cat="Vie quotidienne")
+
+AUTO_META['tapis-antiderapant-douche/'] = ('🚿', 'ciel')
+g("tapis-antiderapant-douche/",
+  "Tapis antidérapant de douche : bien le choisir et l'entretenir",
+  "Tapis antidérapant de douche : ventouses, entretien et alternatives",
+  "Ventouses, taille, matière, entretien contre les moisissures et solutions sans tapis : comment choisir un antidérapant de douche pour une personne âgée.",
+  """
+<p>Un tapis antidérapant à ventouses, posé au fond de la douche ou de la baignoire, est l'un des achats les plus simples et les plus utiles pour éviter une glissade. Mais il ne protège que s'il colle vraiment au sol et qu'il reste propre : un tapis qui se décolle ou qui verdit en dessous finit par faire plus de mal que de bien.</p>
+<p>Voici comment choisir le bon modèle, comment l'entretenir sans y passer des heures, et quoi faire quand un tapis ne convient pas à votre douche.</p>
+{CTA}
+<h2>Pourquoi la douche est-elle si glissante ?</h2>
+<p>L'émail d'une baignoire et la plupart des receveurs de douche sont lisses par nature. Ajoutez de l'eau, du savon ou du shampoing, et la semelle du pied n'accroche presque plus. Pour une personne dont l'équilibre est moins sûr, ou qui se tourne pour attraper le pommeau, ce petit dérapage peut suffire à tomber.</p>
+<p>Le moment le plus risqué n'est d'ailleurs pas toujours sous l'eau. C'est souvent l'entrée et la sortie : on lève un pied, on se tient d'une main, le sol de la salle de bains est mouillé. Un bon équipement couvre donc deux endroits, le fond de la douche et le sol juste devant.</p>
+<h2>Les ventouses : le critère qui compte le plus</h2>
+<p>Un tapis de douche tient grâce à des dizaines de petites ventouses sous sa surface. Pour qu'elles fassent leur travail, trois conditions doivent être réunies :</p>
+<ul>
+<li><strong>Un fond lisse.</strong> Les ventouses accrochent sur l'émail, l'acrylique ou un receveur lisse. Sur un fond déjà texturé, granuleux ou carrelé avec des joints, elles ne font pas le vide et le tapis glisse. Vérifiez toujours ce point avant d'acheter.</li>
+<li><strong>Beaucoup de ventouses, bien réparties.</strong> Un tapis dont les ventouses couvrent toute la surface, bords compris, se soulève moins quand on marche sur un coin.</li>
+<li><strong>Une pose sur fond sec et propre.</strong> Posez le tapis sur une douche nettoyée et sèche, puis appuyez sur toute la surface. Un dépôt de calcaire ou un film de savon empêche l'adhérence.</li>
+</ul>
+<p>Par exemple, si le tapis bouge dès que vous mettez le pied dessus, ne le gardez pas en espérant qu'il se mettra en place : retirez-le, nettoyez le fond et recommencez. S'il glisse encore, c'est sans doute que le receveur ne s'y prête pas.</p>
+<p><a href="{AMZ:tapis antiderapant douche ventouses}" """ + A + """>Voir les tapis de douche à ventouses</a></p>
+<h2>Quelle taille et quelle matière choisir ?</h2>
+<p>Le tapis doit couvrir la zone où vous posez les pieds, sans remonter sur les bords ni gêner l'écoulement de l'eau. Mesurez votre receveur ou le fond de la baignoire avant de commander. Dans une baignoire, un tapis long qui va du robinet jusqu'au milieu est plus rassurant qu'un petit carré, car on bouge davantage en s'asseyant et en se relevant.</p>
+<table><thead><tr><th>Solution</th><th>Où l'utiliser</th><th>Points forts</th><th>Limites</th></tr></thead><tbody>
+<tr><td>Tapis à ventouses en caoutchouc ou PVC</td><td>Baignoire, receveur lisse</td><td>Pas cher, se pose et s'enlève en un instant</td><td>Demande un entretien régulier, inutile sur fond texturé</td></tr>
+<tr><td>Tapis en caillebotis ou modules à clipser</td><td>Douche à l'italienne, grand receveur</td><td>L'eau s'écoule dessous, sèche vite</td><td>Petit rebord à franchir, joints entre modules à nettoyer</td></tr>
+<tr><td>Bandes ou pastilles adhésives</td><td>Baignoire, receveur lisse</td><td>Restent en place, rien à soulever</td><td>Difficiles à retirer, peuvent se décoller avec le temps</td></tr>
+<tr><td>Traitement antidérapant liquide</td><td>Receveur, baignoire, carrelage</td><td>Invisible, couvre toute la surface</td><td>Application soignée, efficacité à vérifier dans la durée</td></tr>
+<tr><td>Tapis de sortie de bain absorbant</td><td>Sol devant la douche</td><td>Sèche les pieds, évite le carrelage mouillé</td><td>Doit avoir un dos antidérapant pour ne pas glisser</td></tr>
+</tbody></table>
+<p>Côté matière, le caoutchouc naturel et le PVC sont les plus courants. Si vous préférez éviter le PVC, certains tapis se présentent sans phtalates ou en caoutchouc naturel : regardez la fiche du fabricant. Une surface légèrement texturée offre plus d'accroche sous le pied, mais ne doit pas être blessante pour une peau fine.</p>
+<h2>L'entretien : là où tout se joue</h2>
+<p>C'est l'erreur la plus fréquente. On pose le tapis et on l'oublie. Au bout de quelques semaines, l'eau stagne sous les ventouses, des taches noires apparaissent, le tapis sent mauvais et finit par moins bien adhérer.</p>
+<p>Notre conseil : décollez le tapis après la douche et suspendez-le sur le bord de la baignoire ou sur une barre pour qu'il sèche des deux côtés. Cela prend dix secondes et évite l'essentiel des moisissures. Si la personne ne peut pas se baisser facilement, cette tâche peut être confiée à l'aide à domicile ou à un proche lors de son passage.</p>
+<ul>
+<li><strong>Chaque semaine</strong>, frottez les deux faces avec de l'eau savonneuse ou du vinaigre dilué, et rincez bien.</li>
+<li><strong>Si le fabricant l'autorise</strong>, passez-le en machine à basse température. Beaucoup de tapis le permettent, mais pas tous : lisez l'étiquette.</li>
+<li><strong>Changez le tapis</strong> quand les ventouses sont durcies, fendues ou que les taches ne partent plus. Un tapis usé n'accroche plus.</li>
+</ul>
+<p>Pensez aussi au fond de la douche lui-même : le calcaire qui s'y dépose sous le tapis gêne l'adhérence. Un nettoyage régulier du receveur fait partie du même geste.</p>
+<h2>Et si un tapis ne convient pas ?</h2>
+<p>Dans certaines douches, le tapis à ventouses n'est pas la bonne réponse. Sur un receveur texturé, sur un carrelage avec joints, ou si la personne trébuche sur le rebord du tapis, mieux vaut passer à autre chose.</p>
+<p>Les <strong>bandes et pastilles adhésives</strong> se collent directement sur le fond lisse et ne bougent plus. Elles ne créent pas de surépaisseur, ce qui évite d'accrocher l'orteil. <a href="{AMZ:bandes antiderapantes baignoire adhesives}" """ + A + """>Voir les bandes antidérapantes adhésives</a>.</p>
+<p>Le <strong>traitement antidérapant</strong> en liquide ou en kit se passe sur la surface pour la rendre moins glissante. Respectez à la lettre la notice, notamment le temps de séchage avant la première douche. <a href="{AMZ:traitement antiderapant douche baignoire}" """ + A + """>Voir les traitements antidérapants</a>.</p>
+<p>Le <strong>caillebotis</strong> en plastique ou en modules à clipser convient bien aux grandes douches de plain-pied. <a href="{AMZ:caillebotis douche antiderapant}" """ + A + """>Voir les caillebotis de douche</a>.</p>
+<p>À la sortie, un <strong>tapis de bain absorbant avec dos antidérapant</strong> évite de poser un pied mouillé sur un carrelage glissant. <a href="{AMZ:tapis de bain absorbant antiderapant}" """ + A + """>Voir les tapis de sortie de bain</a>.</p>
+<h2>Un tapis seul ne suffit pas toujours</h2>
+<p>Un antidérapant limite les glissades, mais il ne remplace pas un point d'appui. Si la personne se tient au porte-serviettes ou au rideau de douche pour entrer, c'est le signe qu'une <a href="{R}barre-d-appui-salle-de-bain/">barre d'appui</a> fixée solidement au mur serait utile. Si elle se fatigue debout, un <a href="{R}comment-choisir-siege-de-douche/">siège de douche</a> permet de se laver assis. Posez alors les pieds du siège bien à plat, jamais à cheval sur le bord du tapis, pour qu'il ne bascule pas.</p>
+<p>Si la marche pour entrer dans la baignoire devient difficile, aucun tapis ne règle ce problème. C'est le moment de réfléchir à une douche de plain-pied, et de regarder les <a href="{R}aides-adapter-logement-senior/">aides pour adapter le logement</a>. Pour les autres gestes du quotidien, notre guide pour <a href="{R}prevenir-les-chutes-a-la-maison/">prévenir les chutes à la maison</a> complète cet article, et notre <a href="{R}amenager-logement-personne-agee/">guide pour aménager le logement pièce par pièce</a> reprend la salle de bains en détail.</p>
+<p>Enfin, si la personne a déjà glissé ou se sent moins stable depuis quelque temps, parlez-en à son médecin. Un ergothérapeute peut aussi venir voir la salle de bains et proposer les équipements adaptés à sa situation.</p>
+""",
+  faq=[("Pourquoi mon tapis de douche ne tient-il pas ?", "Le plus souvent, le fond de la douche n'est pas assez lisse pour que les ventouses fassent le vide, ou il est couvert de calcaire ou d'un film de savon. Nettoyez et séchez le fond, posez le tapis en appuyant sur toute sa surface. S'il glisse encore, préférez des bandes adhésives ou un traitement antidérapant."),
+       ("Comment éviter les moisissures sous le tapis ?", "Décollez le tapis après chaque douche et laissez-le sécher suspendu. Lavez-le chaque semaine à l'eau savonneuse ou en machine si l'étiquette le permet, et remplacez-le quand les taches ne partent plus ou que les ventouses durcissent."),
+       ("Faut-il un tapis aussi devant la douche ?", "Oui, c'est souvent en sortant que l'on glisse, avec les pieds mouillés sur un carrelage. Choisissez un tapis absorbant avec un dos antidérapant, assez fin pour ne pas faire trébucher.")],
+  short="Tapis antidérapant de douche", cat="Salle de bains")
+
+AUTO_META['meilleur-deambulateur/'] = ('🏆', 'sauge')
+g("meilleur-deambulateur/",
+  "Meilleur déambulateur 2026 : 10 modèles fixes, à roues ou pliants",
+  "Meilleur déambulateur : 10 cadres de marche comparés selon l'usage",
+  "Déambulateur fixe, à 2 roues, pliant, articulé ou renforcé : 10 cadres de marche comparés d'après les fiches des fabricants et des revendeurs spécialisés.",
+  """
+<p>Le bon déambulateur est celui qui correspond à la façon de marcher de la personne, pas celui qui a le plus d'options. Si elle a besoin d'un appui très stable et peut soulever le cadre, un modèle fixe reste le plus sûr. Si soulever le cadre à chaque pas la fatigue, deux roues à l'avant changent tout. Et si le déambulateur doit voyager en voiture, il faut qu'il se plie.</p>
+<p>Nous avons retenu dix cadres de marche de marques de matériel médical, tenus à deux mains, sans siège. Pour les rollators à quatre roues avec assise, voyez plutôt notre <a href="{R}meilleur-rollator/">sélection de rollators</a>.</p>
+{CTA}
+<div class="note"><strong>Comment nous avons fait cette sélection</strong> : à partir des fiches publiées par les fabricants et les revendeurs (pharmacies en ligne, distributeurs de matériel médical), sans test en main. Nous n'indiquons que les chiffres lus sur ces fiches ; quand une donnée n'y figure pas, nous écrivons « non précisé ». Certaines fiches donnent une « hauteur réglable » sans préciser s'il s'agit de la hauteur des poignées : vérifiez la notice du modèle que vous achetez. Le choix d'une aide à la marche se discute avec le médecin, le kinésithérapeute ou l'ergothérapeute.</div>
+<h2>Les 10 déambulateurs en un tableau</h2>
+<table><thead><tr><th>Modèle</th><th>Type</th><th>Poids</th><th>Charge max</th><th>Hauteur réglable</th><th>Idéal pour</th></tr></thead><tbody>
+<tr><td>Invacare Asteria</td><td>Pliant, roues en option</td><td>2,8 kg</td><td>135 kg</td><td>77 à 95 cm (poignées)</td><td>Notre choix : le plus polyvalent</td></tr>
+<tr><td>Herdegen déambulateur fixe</td><td>Fixe</td><td>2 kg</td><td>165 kg</td><td>81 à 91 cm</td><td>Un fixe léger et robuste</td></tr>
+<tr><td>Invacare Escort P435B</td><td>Fixe</td><td>1,8 kg</td><td>130 kg</td><td>77 à 85 cm</td><td>Le plus léger à soulever</td></tr>
+<tr><td>Euromedis déambulateur pliant</td><td>Pliant</td><td>2,3 kg</td><td>100 kg</td><td>74 à 93 cm</td><td>Un pliant simple et plat</td></tr>
+<tr><td>Identités cadre pliant 826076</td><td>Pliant, 2 roues</td><td>3,4 kg</td><td>120 kg</td><td>77 à 96,5 cm (poignées)</td><td>Pousser au lieu de soulever</td></tr>
+<tr><td>Indesmed déambulateur 2 roues</td><td>Pliant, 2 roues</td><td>2,8 kg</td><td>100 kg (recommandée)</td><td>75 à 95 cm (poignées)</td><td>Grandes roues, usage extérieur</td></tr>
+<tr><td>Invacare Aventia P402</td><td>Articulé, pliant</td><td>Environ 3 kg</td><td>130 kg</td><td>78 à 90,5 cm</td><td>Avancer un côté après l'autre</td></tr>
+<tr><td>Drive DeVilbiss Vienne</td><td>Pliant, 2 niveaux de poignées</td><td>2,6 kg</td><td>130 kg</td><td>80 à 93 cm (poignées hautes)</td><td>S'aider à se lever d'un siège</td></tr>
+<tr><td>Drive DeVilbiss Bruxelles</td><td>Fixe, cadre de toilette</td><td>2,3 kg</td><td>130 kg</td><td>78,5 à 96 cm (poignées)</td><td>Intérieur et toilettes</td></tr>
+<tr><td>HMS-Vilgo Fortissimo</td><td>Pliant renforcé</td><td>3,4 kg</td><td>227 kg</td><td>82 à 100 cm</td><td>Forte corpulence</td></tr>
+</tbody></table>
+<p>Avant de lire le détail, gardez trois repères en tête. La largeur hors tout doit passer dans vos portes et vos couloirs. La charge maximale doit laisser de la marge par rapport au poids de la personne. Et les poignées se règlent en général à hauteur du poignet, bras le long du corps : le kinésithérapeute peut faire ce réglage avec vous.</p>
+
+<h2>1. Invacare Asteria : le plus polyvalent (notre choix)</h2>
+<p><strong>Pour qui ?</strong> Une personne dont les besoins peuvent évoluer. On l'utilise d'abord comme cadre fixe, puis on ajoute des roues si soulever le cadre devient pénible. Notre choix, parce qu'il évite de racheter un déambulateur au moindre changement.</p>
+<ul>
+<li><strong>Points forts</strong> : poignées réglables de 77 à 95 cm par paliers de 2 cm, pliage par un bouton central, 12 cm de profondeur une fois plié. Roues proposées en option : avant fixes (75 mm), avant pivotantes (125 mm) ou arrière avec frein à appui (75 mm).</li>
+<li><strong>Données utiles</strong> : 2,8 kg, charge maximale 135 kg, largeur totale 62 cm, 43 cm entre les poignées, profondeur 45 cm ouvert. Aluminium anodisé, poignées en mousse.</li>
+<li><strong>Limites</strong> : les roues sont vendues à part et modifient les hauteurs mini et maxi. Avec 62 cm de large, mesurez vos portes les plus étroites. Embouts et garantie non précisés sur les fiches consultées.</li>
+</ul>
+<p><a href="{AMZ:Invacare Asteria deambulateur}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>2. Herdegen déambulateur adulte fixe : un fixe léger qui supporte beaucoup</h2>
+<p><strong>Pour qui ?</strong> Une personne qui a besoin de l'appui le plus stable possible à la maison et qui peut soulever le cadre à chaque pas.</p>
+<ul>
+<li><strong>Points forts</strong> : 2 kg seulement pour une charge maximale de 165 kg, ce qui est rare sur un fixe. Aluminium anodisé, poignées de 12 cm de long.</li>
+<li><strong>Données utiles</strong> : hauteur hors tout de 81 à 91 cm, largeur de 52 cm à l'avant et 62 cm à l'arrière, profondeur 45 cm. Garantie de 2 ans.</li>
+<li><strong>Limites</strong> : non pliant, donc encombrant à transporter. La hauteur exacte des poignées n'est pas indiquée, seulement la hauteur hors tout. Plage de réglage de 10 cm, un peu courte pour les très grandes ou très petites tailles.</li>
+</ul>
+<p><a href="{AMZ:Herdegen deambulateur fixe adulte}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>3. Invacare Escort P435B : le plus léger à soulever</h2>
+<p><strong>Pour qui ?</strong> Une personne de petite ou moyenne taille qui a peu de force dans les bras et doit soulever son cadre souvent.</p>
+<ul>
+<li><strong>Points forts</strong> : 1,8 kg, le plus léger de cette sélection. Pieds inclinés, aluminium anodisé, poignées présentées comme incassables. Roues avant proposées en accessoire.</li>
+<li><strong>Données utiles</strong> : charge maximale 130 kg, hauteur réglable de 77 à 85 cm.</li>
+<li><strong>Limites</strong> : plage de hauteur de 8 cm seulement, qui peut ne pas convenir à une personne grande. Largeur, profondeur et pliage non précisés sur la fiche consultée.</li>
+</ul>
+<p><a href="{AMZ:Invacare Escort cadre de marche}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>4. Euromedis déambulateur pliant : un pliant simple qui se range à plat</h2>
+<p><strong>Pour qui ?</strong> Une personne de corpulence moyenne qui veut un cadre sans roues mais qui doit le ranger derrière une porte ou le mettre dans le coffre.</p>
+<ul>
+<li><strong>Points forts</strong> : une fois plié, il ne fait plus que 10 cm de profondeur sur 50 cm de large. Hauteur réglable de 74 à 93 cm sur 8 positions, poignées en mousse, embouts en caoutchouc, 2,3 kg.</li>
+<li><strong>Données utiles</strong> : largeur 58 cm, profondeur 50 cm, 44 cm entre les poignées, aluminium, garantie de 2 ans.</li>
+<li><strong>Limites</strong> : charge maximale de 100 kg, parmi les plus basses ici. Une remarque publiée sur la fiche du revendeur signalait des dimensions erronées, corrigées depuis selon le vendeur : contrôlez à réception.</li>
+</ul>
+<p><a href="{AMZ:Euromedis deambulateur pliant hauteur reglable}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>5. Identités cadre de marche pliant (826076) : pousser au lieu de soulever</h2>
+<p><strong>Pour qui ?</strong> Une personne qui se fatigue à soulever un cadre fixe et veut avancer en le poussant, surtout à l'intérieur.</p>
+<ul>
+<li><strong>Points forts</strong> : deux roues avant de 5 pouces, poignées réglables de 77 à 96,5 cm sur 8 positions, pliage à plat par un bouton rotatif au milieu du cadre. Existe aussi sans roues (réf. 826068, 2,55 kg).</li>
+<li><strong>Données utiles</strong> : 3,4 kg avec roues, charge maximale 120 kg, dimensions 60 x 49,5 cm au sol, 43 cm entre les poignées, aluminium anodisé, poignées en PVC.</li>
+<li><strong>Limites</strong> : petites roues, pensées pour les sols lisses plutôt que les trottoirs abîmés. Garantie non précisée.</li>
+</ul>
+<p><a href="{AMZ:Identites cadre de marche pliant roues}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>6. Indesmed déambulateur 2 roues : de grandes roues pour sortir</h2>
+<p><strong>Pour qui ?</strong> Une personne qui veut un cadre à roues pour de courts trajets dehors, sans passer au rollator.</p>
+<ul>
+<li><strong>Points forts</strong> : roues de 20 cm de diamètre, plus à l'aise sur un sol irrégulier que les petites roues d'intérieur. Barre d'appui horizontale, embouts antidérapants à l'arrière, aluminium, pliant. Sac de courses en option.</li>
+<li><strong>Données utiles</strong> : 2,8 kg, poignées de 75 à 95 cm, largeur 57 cm.</li>
+<li><strong>Limites</strong> : charge « recommandée » de 100 kg. La fiche du fabricant ne précise ni la profondeur ni clairement l'encombrement plié, et pas de garantie indiquée.</li>
+</ul>
+<p><a href="{AMZ:Indesmed deambulateur 2 roues}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>7. Invacare Aventia P402 : avancer un côté après l'autre</h2>
+<p><strong>Pour qui ?</strong> Une personne qui ne peut pas soulever tout le cadre d'un coup. Ce déambulateur articulé avance côté par côté, au rythme des pas. C'est un modèle qui se choisit plutôt avec un kinésithérapeute.</p>
+<ul>
+<li><strong>Points forts</strong> : cadre articulé et pliant, sans roues, en aluminium.</li>
+<li><strong>Données utiles</strong> : environ 3 kg, charge maximale 130 kg, hauteur réglable de 78 à 90,5 cm selon le revendeur, 40 cm entre les poignées, profondeur hors tout 44 cm.</li>
+<li><strong>Limites</strong> : la marche alternée demande un temps d'apprentissage. Embouts et garantie non précisés.</li>
+</ul>
+<p><a href="{AMZ:Invacare P402 deambulateur articule}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>8. Drive DeVilbiss Vienne : deux hauteurs de poignées pour se lever</h2>
+<p><strong>Pour qui ?</strong> Une personne qui a du mal à passer de la position assise à debout. Les poignées basses servent d'appui pour se redresser, les poignées hautes pour marcher.</p>
+<ul>
+<li><strong>Points forts</strong> : poignées hautes réglables de 80 à 93 cm, poignées basses de 51 à 64 cm, réglage par boutons poussoirs sur chaque pied, pliant, 2,6 kg.</li>
+<li><strong>Données utiles</strong> : charge maximale 130 kg, largeur 61 cm, 42 cm entre les poignées, profondeur maximale 53 cm, aluminium, garantie de 2 ans.</li>
+<li><strong>Limites</strong> : le nombre de crans de réglage diffère selon le passage de la fiche (5 ou 6). Mécanisme de pliage non décrit. Il est aussi vendu sous la marque Adage.</li>
+</ul>
+<p><a href="{AMZ:Drive DeVilbiss cadre de marche pliant Vienne}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>9. Drive DeVilbiss Bruxelles : marcher dans la maison et s'appuyer aux toilettes</h2>
+<p><strong>Pour qui ?</strong> Une personne qui marche surtout chez elle et qui a aussi besoin d'accoudoirs autour des WC : ce cadre sert aux deux.</p>
+<ul>
+<li><strong>Points forts</strong> : poignées réglables de 78,5 à 96 cm par boutons poussoirs sur les quatre pieds, poignées en mousse, 2,3 kg.</li>
+<li><strong>Données utiles</strong> : charge maximale 130 kg, largeur hors tout 69 cm, profondeur maximale 59 cm, 43 cm entre les poignées, aluminium.</li>
+<li><strong>Limites</strong> : 69 cm de large, c'est le plus large de la sélection : mesurez portes et couloirs. Pliage non précisé.</li>
+</ul>
+<p><a href="{AMZ:Drive Bruxelles deambulateur cadre de toilette}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>10. HMS-Vilgo Fortissimo : pour les personnes de forte corpulence</h2>
+<p><strong>Pour qui ?</strong> Une personne lourde, ou très grande, qui a besoin d'un cadre renforcé.</p>
+<ul>
+<li><strong>Points forts</strong> : charge maximale de 227 kg, hauteur réglable de 82 à 100 cm sur 8 positions, pliage en appuyant sur l'ergot central, poignées en mousse, embouts en caoutchouc.</li>
+<li><strong>Données utiles</strong> : 3,4 kg, largeur 66 cm.</li>
+<li><strong>Limites</strong> : large et plus lourd que la moyenne. Profondeur et garantie non précisées.</li>
+</ul>
+<p><a href="{AMZ:HMS Vilgo Fortissimo deambulateur}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>Fixe, à roues ou articulé : comment choisir ?</h2>
+<p>Regardez marcher la personne quelques minutes. Si elle a besoin de s'arrêter à chaque pas pour retrouver son équilibre, le <strong>cadre fixe</strong> est le plus sûr : il ne part pas devant elle. S'il l'épuise parce qu'elle doit le soulever, les <strong>deux roues avant</strong> permettent de le pousser, avec des embouts à l'arrière qui freinent dès qu'on s'appuie. Le <strong>cadre articulé</strong> est un cas particulier, à choisir sur conseil d'un professionnel.</p>
+<p>Ensuite, pensez aux lieux. À l'intérieur, la largeur compte plus que tout. Pour sortir ou voyager, le pliage et le poids passent devant. Notre conseil : si la personne marche plus de quelques minutes dehors et garde un bon équilibre, regardez aussi un rollator, plus confortable sur la distance. La différence est expliquée dans notre guide <a href="{R}deambulateur-ou-rollator/">déambulateur ou rollator</a>.</p>
+<p>Un déambulateur aide à marcher, mais le logement doit suivre : tapis retirés, passages dégagés, éclairage la nuit. Tout est détaillé dans <a href="{R}amenager-logement-personne-agee/">notre guide pour aménager le logement pièce par pièce</a>.</p>
+<h2>Faut-il l'acheter soi-même ?</h2>
+<p>Pas forcément. Un déambulateur peut être prescrit par le médecin et pris en charge en partie par l'Assurance maladie : l'Escort P435B et l'Aventia P402, par exemple, sont inscrits sur la liste des produits remboursables (LPP) selon leur revendeur. Avant d'acheter en ligne, demandez au médecin ou au pharmacien ce qui est possible dans votre cas, et gardez la facture.</p>
+""",
+  faq=[("Quel est le meilleur déambulateur pour une personne âgée ?", "Celui qui correspond à sa marche. Un cadre fixe pour l'appui le plus stable, un modèle à deux roues avant si soulever le cadre fatigue, un modèle pliant pour le transport. L'Invacare Asteria est un bon point de départ car on peut lui ajouter des roues plus tard. Le kinésithérapeute ou le médecin peut confirmer le choix."),
+       ("Déambulateur fixe ou à roues ?", "Le fixe s'arrête net quand on s'appuie dessus, ce qui rassure en cas d'équilibre fragile, mais il faut le soulever à chaque pas. Le modèle à deux roues se pousse, ce qui est moins fatigant, à condition de garder un bon contrôle de la marche."),
+       ("Avez-vous testé ces déambulateurs ?", "Non. La sélection repose sur les caractéristiques publiées par les fabricants et les revendeurs, sans note ni avis de prise en main. Vérifiez la notice du modèle que vous achetez.")],
+  short="Top 10 déambulateurs", cat="Se déplacer")
+
+AUTO_META['meilleure-canne-de-marche/'] = ('🏆', 'sable')
+g("meilleure-canne-de-marche/",
+  "Meilleure canne de marche 2026 : 10 modèles comparés",
+  "Meilleure canne de marche : pliante, réglable, tripode ou quadripode",
+  "Canne pliante, réglable, anatomique, tripode, quadripode ou canne-siège : 10 cannes de marche comparées d'après les fiches des fabricants et des revendeurs.",
+  """
+<p>Pour la plupart des gens, une canne simple, réglable et légère suffit, à condition qu'elle soit à la bonne hauteur et que son embout accroche bien. Une canne pliante se justifie si elle doit tenir dans un sac. Les modèles tripodes et quadripodes, eux, s'adressent à ceux qui ont besoin d'un appui plus large, souvent sur conseil du kinésithérapeute.</p>
+<p>Voici dix cannes de marque vendues en France, classées selon la situation à laquelle elles répondent le mieux.</p>
+{CTA}
+<div class="note"><strong>Comment nous avons fait cette sélection</strong> : à partir des fiches publiées par les fabricants et les revendeurs (pharmacies en ligne, distributeurs de matériel médical), sans test en main. Nous n'indiquons que les chiffres lus sur ces fiches ; quand une donnée n'y figure pas, nous écrivons « non précisé ». Les valeurs peuvent varier selon la version : vérifiez la notice du modèle acheté. Le choix d'une aide à la marche se discute avec le médecin ou le kinésithérapeute.</div>
+<h2>Les 10 cannes en un coup d'œil</h2>
+<table><thead><tr><th>Modèle</th><th>Type</th><th>Poids</th><th>Charge max</th><th>Hauteur</th><th>Idéal pour</th></tr></thead><tbody>
+<tr><td>Identités Stabilicane</td><td>Pliante, tient debout seule</td><td>400 g</td><td>150 kg</td><td>77 à 95 cm</td><td>Notre choix : ne tombe pas quand on la lâche</td></tr>
+<tr><td>Identités Soft Step</td><td>Réglable</td><td>350 g</td><td>100 kg</td><td>73 à 103 cm</td><td>La plus grande plage de réglage</td></tr>
+<tr><td>Identités canne pliante aluminium</td><td>Pliante</td><td>370 g</td><td>110 kg</td><td>83,5 à 95,5 cm</td><td>Une pliante légère du quotidien</td></tr>
+<tr><td>Herdegen canne pliante réglable</td><td>Pliante</td><td>400 g</td><td>100 kg</td><td>83 à 93 cm</td><td>Livrée avec sa sacoche</td></tr>
+<tr><td>Euromedis canne pliante noire</td><td>Pliante</td><td>370 g</td><td>100 kg</td><td>81,5 à 91,5 cm</td><td>Une pliante sobre et compacte</td></tr>
+<tr><td>Drive DeVilbiss Hurrycane</td><td>Pliante, base tripode pivotante</td><td>400 g</td><td>159 kg</td><td>77,5 à 95 cm</td><td>Plus de stabilité, même pliante</td></tr>
+<tr><td>Canne anatomique à appui palmaire</td><td>Réglable, poignée anatomique</td><td>400 g</td><td>100 kg</td><td>70 à 97 cm selon le côté</td><td>Mains ou poignets douloureux</td></tr>
+<tr><td>Euromedis canne tripode</td><td>Tripode</td><td>800 g</td><td>100 kg</td><td>73 à 97 cm</td><td>Un appui large à la maison</td></tr>
+<tr><td>Identités quadripode Classic</td><td>Quadripode</td><td>Non précisé</td><td>113 kg</td><td>67 à 90,5 cm</td><td>L'appui le plus stable</td></tr>
+<tr><td>Medtrade canne-siège trépied</td><td>Canne-siège</td><td>840 g</td><td>90 kg (voir détail)</td><td>Assise à 50 cm</td><td>S'asseoir pendant une file d'attente</td></tr>
+</tbody></table>
+<p>Un repère pour la hauteur : bras le long du corps, la poignée arrive au niveau du pli du poignet. Coude légèrement fléchi quand on s'appuie. Une canne trop haute fait remonter l'épaule, une canne trop basse fait pencher.</p>
+
+<h2>1. Identités Stabilicane : la canne qui reste debout (notre choix)</h2>
+<p><strong>Pour qui ?</strong> Une personne qui pose souvent sa canne pour ouvrir une porte, payer en caisse ou prendre un objet, et qui a du mal à la ramasser quand elle tombe. Notre choix, parce que c'est ce petit détail qui gâche le plus souvent l'usage d'une canne.</p>
+<ul>
+<li><strong>Points forts</strong> : selon le fabricant, elle tient debout seule quand on la pose. Base de 9 cm de diamètre qui pivote à 360 degrés, poignée ergonomique bi-matière souple, aluminium léger, pliante.</li>
+<li><strong>Données utiles</strong> : 400 g, charge maximale 150 kg, hauteur de 77 à 95 cm. Plusieurs coloris.</li>
+<li><strong>Limites</strong> : nombre de segments et longueur pliée non précisés. Accessoires (dragonne) non précisés.</li>
+</ul>
+<p><a href="{AMZ:Identites Stabilicane canne}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>2. Identités Soft Step : la plus facile à mettre à la bonne hauteur</h2>
+<p><strong>Pour qui ?</strong> Une personne très grande ou de petite taille, ou un foyer où la canne doit pouvoir changer de mains. Elle n'est pas pliante, mais c'est la plus réglable de la sélection.</p>
+<ul>
+<li><strong>Points forts</strong> : hauteur de 73 à 103 cm en 14 positions espacées de 2,5 cm. Poignée en T au revêtement souple, pour la main droite comme la gauche. Embase interchangeable qui amortit les chocs. Fabriquée en France.</li>
+<li><strong>Données utiles</strong> : 350 g, charge maximale 100 kg, tube en aluminium, embout de 19 mm.</li>
+<li><strong>Limites</strong> : non pliante. Dragonne et embouts stabilisateurs vendus séparément.</li>
+</ul>
+<p><a href="{AMZ:canne de marche Soft Step}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>3. Identités canne pliante en aluminium : une pliante légère du quotidien</h2>
+<p><strong>Pour qui ?</strong> Une personne qui marche bien la plupart du temps et veut une canne à sortir de son sac pour une longue promenade ou un trajet en ville.</p>
+<ul>
+<li><strong>Points forts</strong> : 370 g, se plie en 4 parties et reste pliée grâce à une bague de maintien. Hauteur de 83,5 à 95,5 cm en 5 positions. Livrée avec une dragonne à pression et une housse.</li>
+<li><strong>Données utiles</strong> : aluminium, charge maximale 110 kg, manche antidérapant, 8 coloris.</li>
+<li><strong>Limites</strong> : la plage de hauteur commence à 83,5 cm, ce qui peut être trop haut pour une personne de petite taille. Longueur pliée et embout non précisés.</li>
+</ul>
+<p><a href="{AMZ:Identites canne de marche pliante aluminium}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>4. Herdegen canne pliante réglable : livrée avec sa sacoche</h2>
+<p><strong>Pour qui ?</strong> Une personne qui garde sa canne dans un sac à main ou une boîte à gants et veut qu'elle soit protégée.</p>
+<ul>
+<li><strong>Points forts</strong> : 4 tubes reliés par un élastique, 30 x 12 cm une fois pliée, sacoche de transport et dragonne fournies. Poignée en T « Soft touch », embout en caoutchouc qui amortit les chocs.</li>
+<li><strong>Données utiles</strong> : 400 g, charge maximale 100 kg, hauteur de 83 à 93 cm par crans.</li>
+<li><strong>Limites</strong> : hauteur minimale de 83 cm, peu adaptée aux petites tailles. Matériau du tube non précisé.</li>
+</ul>
+<p><a href="{AMZ:Herdegen canne pliante reglable}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>5. Euromedis canne pliante noire : sobre et compacte</h2>
+<p><strong>Pour qui ?</strong> Une personne qui cherche une pliante discrète, un peu plus basse que les modèles précédents.</p>
+<ul>
+<li><strong>Points forts</strong> : pliée en 4, elle mesure 30 x 13 cm. Hauteur de 81,5 à 91,5 cm, poignée ergonomique avec grip antidérapant, embout en caoutchouc de 19 mm. Dragonne fournie.</li>
+<li><strong>Données utiles</strong> : 370 g, aluminium, charge maximale 100 kg, poignée noire ou bordeaux.</li>
+<li><strong>Limites</strong> : 10 cm de plage de réglage, ce qui est court pour les grandes tailles. Forme exacte de la poignée non précisée.</li>
+</ul>
+<p><a href="{AMZ:Euromedis canne pliante aluminium noire}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>6. Drive DeVilbiss Hurrycane : une pliante plus stable</h2>
+<p><strong>Pour qui ?</strong> Une personne qui veut un peu plus d'assise qu'une canne classique, sans passer à un tripode lourd et encombrant.</p>
+<ul>
+<li><strong>Points forts</strong> : base tripode qui pivote sur 360 degrés sans relever la canne, pliante en 3 segments, 400 g seulement. La charge maximale annoncée, 159 kg, est la plus élevée des pliantes de cette sélection.</li>
+<li><strong>Données utiles</strong> : aluminium, hauteur de 77,5 à 95 cm, poignée droite ergonomique, dragonne fournie.</li>
+<li><strong>Limites</strong> : prévue pour les terrains plats ou légèrement accidentés, selon la fiche. La fiche ne dit pas qu'elle tient debout seule. Longueur pliée non précisée.</li>
+</ul>
+<p><a href="{AMZ:Hurrycane canne pliante}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>7. Canne anatomique à appui palmaire : quand la main fait mal</h2>
+<p><strong>Pour qui ?</strong> Une personne qui a de l'arthrose dans la main ou le poignet, ou qui s'appuie fort sur sa canne. La poignée anatomique répartit la pression dans la paume.</p>
+<ul>
+<li><strong>Points forts</strong> : poignée à appui palmaire, en version droitier ou gaucher. Bague anti-bruit et anti-vibration, embout antidérapant de 19 mm, dragonne incluse.</li>
+<li><strong>Données utiles</strong> : aluminium noir, 400 g, charge maximale 100 kg. Hauteur de 70 à 93 cm pour le modèle gauche et de 75 à 97 cm pour le modèle droit.</li>
+<li><strong>Limites</strong> : il faut choisir le bon côté : la canne se tient en général dans la main opposée à la jambe douloureuse. Marque non indiquée sur la fiche consultée (réf. 3389360014399), et le pliage n'y est pas confirmé.</li>
+</ul>
+<p><a href="{AMZ:canne anatomique appui palmaire}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>8. Euromedis canne tripode : un appui large à la maison</h2>
+<p><strong>Pour qui ?</strong> Une personne qui a besoin de plus de stabilité qu'une canne simple, par exemple après une opération ou un problème d'équilibre, sur conseil du kinésithérapeute.</p>
+<ul>
+<li><strong>Points forts</strong> : trois pieds antidérapants, réglage par bouton à ressort avec un clic audible et écrou de serrage, hauteur de 73 à 97 cm. Inscrite à la LPP selon le revendeur.</li>
+<li><strong>Données utiles</strong> : 800 g, charge maximale 100 kg, tube de 19 mm, poignée ergonomique.</li>
+<li><strong>Limites</strong> : deux fois plus lourde qu'une canne simple. Les trois pieds doivent toucher le sol ensemble : elle convient mal aux escaliers et aux terrains accidentés.</li>
+</ul>
+<p><a href="{AMZ:Euromedis canne tripode}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>9. Identités canne quadripode Classic : l'appui le plus stable</h2>
+<p><strong>Pour qui ?</strong> Une personne qui a besoin d'un appui très sûr d'un seul côté, par exemple après un AVC, et pour qui le médecin ou le kinésithérapeute a conseillé une quadripode.</p>
+<ul>
+<li><strong>Points forts</strong> : quatre embouts en caoutchouc qui limitent bruit et vibrations, base de 14,5 cm de diamètre, plus compacte que bien des quadripodes. Le fabricant la dit auto-stable : elle ne tombe pas quand on la lâche. Inscrite à la LPP selon le revendeur.</li>
+<li><strong>Données utiles</strong> : aluminium, poignée en T anatomique, charge maximale 113 kg, hauteur de 67 à 90,5 cm, la plage la plus basse de la sélection.</li>
+<li><strong>Limites</strong> : poids non précisé. Hauteur maximale de 90,5 cm, qui peut être juste pour une personne grande.</li>
+</ul>
+<p><a href="{AMZ:Identites canne quadripode}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>10. Medtrade canne-siège trépied : s'asseoir quand on attend</h2>
+<p><strong>Pour qui ?</strong> Une personne qui marche bien mais se fatigue vite debout : marché, file d'attente, visite d'un musée. Ce n'est pas une aide à la marche pour un équilibre fragile.</p>
+<ul>
+<li><strong>Points forts</strong> : une canne qui s'ouvre en petit siège de 21 cm de diamètre, assise à 50 cm du sol. Poignée en arc couverte de caoutchouc épais. Garantie de 2 ans.</li>
+<li><strong>Données utiles</strong> : 840 g, aluminium et assise en plastique, 84 cm de haut pliée.</li>
+<li><strong>Limites</strong> : le revendeur la réserve aux personnes qui ont un bon équilibre et une bonne mobilité. La fiche donne deux charges différentes, 90 kg et 80 kg pour l'assise : retenez la plus basse. Hauteur non réglable.</li>
+</ul>
+<p><a href="{AMZ:canne siege trepied aluminium}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>Quelle canne pour quelle situation ?</h2>
+<p>La question à se poser, c'est ce que la canne doit apporter. Si elle sert à rassurer et à soulager un peu une jambe, une <strong>canne simple réglable</strong> suffit, pliante si elle voyage. Si la personne a besoin de s'appuyer franchement, la <strong>tripode</strong> ou la <strong>quadripode</strong> offre une base plus large, mais elle est plus lourde et moins pratique dans les escaliers. Et si les mains souffrent, la <strong>poignée anatomique</strong> fait souvent plus de différence que le reste.</p>
+<p>Notre conseil : ne prenez pas une quadripode « par précaution ». Elle ralentit la marche et n'aide que si elle a été conseillée par un professionnel. Si la personne a besoin d'un appui des deux côtés, une canne ne suffit plus : regardez plutôt notre <a href="{R}meilleur-deambulateur/">sélection de déambulateurs</a>.</p>
+<p>Tous les critères, de la hauteur à l'embout, sont détaillés dans notre guide pour <a href="{R}canne-de-marche/">bien choisir une canne de marche</a>. Pour que la canne serve vraiment, le logement compte aussi : retrouvez les aménagements utiles dans <a href="{R}amenager-logement-personne-agee/">notre guide pour aménager le logement pièce par pièce</a>.</p>
+<p>Pensez enfin à l'embout. C'est la pièce qui s'use et qui accroche au sol : changez-le dès qu'il est lisse ou fendu, en prenant le bon diamètre (souvent indiqué sur la fiche, par exemple 18 ou 19 mm).</p>
+""",
+  faq=[("Quelle est la meilleure canne de marche pour une personne âgée ?", "Pour la plupart des personnes, une canne réglable et légère, avec un bon embout, suffit. La Stabilicane d'Identités a l'avantage de tenir debout seule. Une tripode ou une quadripode se choisit sur conseil du médecin ou du kinésithérapeute, quand il faut un appui plus large."),
+       ("De quel côté tenir sa canne ?", "En général du côté opposé à la jambe douloureuse ou faible : la canne avance en même temps que cette jambe. Le kinésithérapeute peut vous montrer le bon geste et régler la hauteur."),
+       ("Avez-vous testé ces cannes ?", "Non. Cette sélection repose sur les caractéristiques publiées par les fabricants et les revendeurs, sans note ni avis de prise en main. Vérifiez la notice du modèle choisi.")],
+  short="Top 10 cannes de marche", cat="Se déplacer")
+
+AUTO_META['bouton-appel-urgence-senior/'] = ('🆘', 'rose')
+g("bouton-appel-urgence-senior/",
+  "Bouton d'appel d'urgence senior : avec ou sans abonnement ?",
+  "Bouton d'appel d'urgence pour senior : pendentif, bracelet, avec ou sans abonnement",
+  "Pendentif ou bracelet, téléassistance avec abonnement ou bouton qui appelle vos proches : comment choisir un bouton d'appel d'urgence pour une personne âgée.",
+  """
+<p>Un bouton d'appel d'urgence permet à une personne âgée de demander de l'aide d'une simple pression, même si elle ne peut pas atteindre le téléphone. La vraie question n'est pas pendentif ou bracelet, mais qui va répondre : une centrale d'écoute ouverte jour et nuit, avec un abonnement, ou des proches appelés directement, sans abonnement.</p>
+<p>Les deux solutions se défendent. Tout dépend de la personne, de son entourage et de la distance qui vous sépare.</p>
+{CTA}
+<h2>Que se passe-t-il quand on appuie sur le bouton ?</h2>
+<p>Le principe est toujours le même : le bouton, porté sur soi, envoie un signal. Ce qui change, c'est la suite.</p>
+<p><strong>Avec un service de téléassistance</strong>, le bouton est relié à un boîtier ou à un appareil mobile qui joint une plateforme d'écoute. Un opérateur parle avec la personne, évalue la situation, puis prévient un proche, un voisin qui a les clés, ou les secours si besoin. C'est un service payé chaque mois.</p>
+<p><strong>Sans abonnement</strong>, le bouton déclenche un appel ou un SMS vers une liste de numéros choisis à l'avance : un enfant, un voisin, un ami. Ces appareils fonctionnent souvent avec une carte SIM, qu'il faut prévoir. Il existe aussi des boutons tout simples qui font sonner un carillon dans la maison, utiles quand l'aidant vit sous le même toit.</p>
+<table><thead><tr><th>Solution</th><th>Qui répond ?</th><th>Points forts</th><th>Limites</th></tr></thead><tbody>
+<tr><td>Téléassistance avec abonnement</td><td>Une plateforme d'écoute, jour et nuit</td><td>Quelqu'un répond toujours, organise l'aide</td><td>Coût mensuel, contrat à lire avec attention</td></tr>
+<tr><td>Bouton GSM sans abonnement</td><td>Les proches enregistrés</td><td>Pas de frais de service, fonctionne aussi dehors</td><td>Si personne ne décroche, l'appel peut rester sans suite</td></tr>
+<tr><td>Montre ou téléphone avec touche SOS</td><td>Les proches enregistrés</td><td>Un seul appareil pour tout</td><td>Il faut penser à le porter et à le recharger</td></tr>
+<tr><td>Bouton relié à un carillon</td><td>La personne présente dans la maison</td><td>Très simple, aucun réseau nécessaire</td><td>Ne sert à rien si personne n'est là</td></tr>
+</tbody></table>
+<h2>Pendentif ou bracelet : lequel sera vraiment porté ?</h2>
+<p>Un bouton n'est utile que s'il est sur la personne au moment où elle en a besoin. Celui qui reste sur la table de nuit ne protège de rien. Le meilleur modèle est donc celui qu'elle acceptera de garder, y compris dans la salle de bains, là où l'on glisse le plus.</p>
+<p>Le <strong>pendentif</strong> se porte autour du cou, sous un vêtement. Il est facile à attraper, même avec une main qui tremble. Certains le trouvent voyant ou gênant la nuit.</p>
+<p>Le <strong>bracelet</strong> ressemble à une montre et se fait plus discret. Il reste à portée de l'autre main. En revanche, le bouton est parfois plus petit, ce qui peut gêner une personne qui a des doigts raides.</p>
+<p>Avant d'acheter, vérifiez trois points sur la fiche : la résistance à l'eau (pour la douche), la taille du bouton et la manière de le recharger ou de changer la pile. Par exemple, un bracelet à recharger chaque soir sera vite oublié par une personne qui n'a pas l'habitude des appareils électroniques.</p>
+<p><a href="{AMZ:pendentif bouton appel urgence senior}" """ + A + """>Voir les pendentifs d'appel d'urgence</a></p>
+<h2>Avec abonnement : pour qui ça vaut le coup ?</h2>
+<p>La téléassistance a un vrai avantage : quelqu'un répond, même à trois heures du matin, même si les enfants sont en voyage ou dorment avec leur téléphone en silencieux. L'opérateur sait qui prévenir et peut rester en ligne pour rassurer.</p>
+<p>Elle se justifie surtout quand la personne vit seule, que la famille habite loin, ou qu'elle a déjà chuté. Lisez bien le contrat : durée d'engagement, frais d'installation, conditions de résiliation, et liste des personnes à prévenir. Pour comprendre ce que les capteurs peuvent ou non détecter, voyez notre guide sur le <a href="{R}detecteur-de-chute/">détecteur de chute</a>.</p>
+<p>Côté budget, la fiche officielle de service-public.fr sur le crédit d'impôt pour les services à la personne cite la téléassistance parmi les services qui y ouvrent droit, quand elle permet le maintien à domicile d'une personne fragile. Le crédit d'impôt est de 50 % des dépenses retenues, dans la limite des plafonds prévus. Les conditions exactes (prestataire, factures, aides déjà perçues à déduire) sont détaillées sur <a href="https://www.service-public.gouv.fr/particuliers/vosdroits/F12" rel="noopener" target="_blank">service-public.fr</a>. D'autres aides peuvent exister selon votre département ou votre caisse de retraite : posez la question au service autonomie du département ou à la caisse avant de signer.</p>
+<h2>Sans abonnement : la bonne solution si l'entourage est proche</h2>
+<p>Un bouton qui appelle directement les proches convient bien à une personne entourée : un enfant à dix minutes, un voisin attentif, un conjoint. Il n'y a pas de frais de service, et beaucoup de modèles fonctionnent aussi à l'extérieur, ce qui rassure pour une promenade.</p>
+<p>Ce qu'on oublie souvent : il faut une carte SIM avec un forfait actif, des numéros à jour, et des proches qui décrochent vraiment. Notre conseil : enregistrez au moins trois numéros, dont un qui ne part jamais en même temps que les autres, et faites un essai réel une fois par mois. Un appareil qui appelle en boucle plusieurs numéros jusqu'à ce que quelqu'un réponde est préférable à celui qui n'en appelle qu'un.</p>
+<p><a href="{AMZ:bouton appel urgence senior sans abonnement GSM}" """ + A + """>Voir les boutons d'appel sans abonnement</a></p>
+<p>Si la personne a déjà un mobile, un <a href="{R}telephone-portable-senior/">téléphone portable senior</a> avec touche SOS peut faire l'affaire, à condition qu'il soit toujours sur elle. <a href="{AMZ:telephone senior touche SOS}" """ + A + """>Voir les téléphones avec touche SOS</a>.</p>
+<p>Une montre avec appel d'urgence et localisation peut aussi convenir à quelqu'un qui sort seul. <a href="{AMZ:montre senior bouton SOS}" """ + A + """>Voir les montres avec bouton SOS</a>.</p>
+<h2>Et quand l'aidant vit à la maison ?</h2>
+<p>Si vous habitez avec la personne, un bouton relié à un carillon sans fil suffit souvent. Elle appuie depuis son lit ou la salle de bains, la sonnerie retentit dans votre pièce. C'est simple et sans abonnement. En revanche, il ne prévient personne en votre absence : prévoyez une autre solution pour les journées où elle reste seule.</p>
+<p><a href="{AMZ:bouton appel sans fil personne agee carillon}" """ + A + """>Voir les boutons d'appel sans fil avec carillon</a></p>
+<h2>Les erreurs à éviter</h2>
+<ul>
+<li><strong>Choisir l'appareil sans la personne.</strong> Montrez-le, faites-le essayer. Un objet imposé finit dans un tiroir.</li>
+<li><strong>Oublier la salle de bains.</strong> Si le bouton ne supporte pas l'eau, il sera enlevé pendant la toilette, au pire moment.</li>
+<li><strong>Ne jamais tester.</strong> Un essai régulier vérifie la batterie, la carte SIM et les numéros.</li>
+<li><strong>Croire que le bouton évite la chute.</strong> Il aide à être secouru vite. Pour réduire le risque, il faut aussi agir sur le logement : relisez nos conseils pour <a href="{R}prevenir-les-chutes-a-la-maison/">prévenir les chutes à la maison</a> et notre <a href="{R}amenager-logement-personne-agee/">guide pour aménager le logement pièce par pièce</a>.</li>
+</ul>
+<p>Si la personne tombe souvent, a des malaises ou se sent moins sûre d'elle, parlez-en à son médecin : il pourra en chercher la cause et vous orienter, par exemple vers un ergothérapeute pour adapter le domicile.</p>
+""",
+  faq=[("Existe-t-il un bouton d'appel d'urgence sans abonnement ?", "Oui. Certains boutons, pendentifs ou montres appellent directement des proches enregistrés, grâce à une carte SIM. Il n'y a pas de frais de service, mais il faut un forfait mobile actif et des proches qui répondent. Sans réponse, personne d'autre ne prend le relais."),
+       ("Pendentif ou bracelet d'appel d'urgence : que choisir ?", "Celui que la personne portera tout le temps, y compris sous la douche. Le pendentif est plus facile à attraper, le bracelet plus discret. Vérifiez la résistance à l'eau, la taille du bouton et la recharge."),
+       ("La téléassistance est-elle déductible des impôts ?", "Selon service-public.fr, la téléassistance fait partie des services à la personne ouvrant droit au crédit d'impôt de 50 %, quand elle permet le maintien à domicile d'une personne fragile, dans la limite des plafonds. Vérifiez les conditions sur la fiche officielle avant de déclarer.")],
+  short="Bouton d'appel d'urgence", cat="Sécurité")
+
+AUTO_META['meilleur-pilulier-electronique/'] = ('🏆', 'lilas')
+g("meilleur-pilulier-electronique/",
+  "Meilleur pilulier électronique 2026 : 10 modèles à alarme",
+  "Meilleur pilulier électronique : boîtes à alarme et distributeurs automatiques",
+  "Boîte à alarme de poche, distributeur verrouillé ou connecté, simple minuteur : 10 piluliers électroniques comparés d'après les fiches des fabricants.",
+  """
+<p>Si le problème est d'oublier l'heure, une boîte à alarme suffit. Si le problème est de ne plus savoir si l'on a déjà pris son comprimé, ou de risquer d'en prendre deux fois, il faut un distributeur automatique verrouillé : il n'ouvre que la case du moment. Ce sont deux besoins différents, et la plupart des déceptions viennent d'un mauvais choix entre les deux.</p>
+<p>Voici dix appareils vendus en France, des plus simples aux plus encadrants.</p>
+{CTA}
+<div class="note"><strong>Comment nous avons fait cette sélection</strong> : à partir des fiches et notices publiées par les fabricants et les revendeurs (en France et, faute de fiche française, au Royaume-Uni), sans test en main. Nous n'indiquons que les données lues ; quand une information manque, nous écrivons « non précisé ». Un pilulier ne remplace pas l'avis du médecin ou du pharmacien : demandez-leur conseil pour l'organisation du traitement, et faites préparer les doses par une personne de confiance si besoin.</div>
+<h2>Le comparatif en un tableau</h2>
+<table><thead><tr><th>Modèle</th><th>Type</th><th>Alarmes par jour</th><th>Alerte</th><th>Verrouillé</th><th>Idéal pour</th></tr></thead><tbody>
+<tr><td>Medelert (TabTime)</td><td>Distributeur automatique</td><td>6 alarmes</td><td>Son et lumière</td><td>Oui, à clé</td><td>Notre choix : éviter les erreurs de prise</td></tr>
+<tr><td>Pivotell Mk3/11</td><td>Distributeur automatique</td><td>Jusqu'à 28</td><td>Son et lumière</td><td>Oui, à clé</td><td>Traitements à prises nombreuses</td></tr>
+<tr><td>Pivotell Advance</td><td>Distributeur automatique</td><td>1 à 24</td><td>Son et lumière</td><td>Volet autobloquant</td><td>Écran qui affiche la prochaine dose</td></tr>
+<tr><td>LiveFine WiFi</td><td>Distributeur connecté</td><td>Jusqu'à 9</td><td>Son et lumière</td><td>Oui, à clé</td><td>Suivi à distance par un proche</td></tr>
+<tr><td>Ivation GMIVPILLDW</td><td>Distributeur automatique</td><td>Jusqu'à 4</td><td>Son</td><td>Oui, à clé</td><td>Un distributeur simple</td></tr>
+<tr><td>TabTime Super 8</td><td>Boîte journalière</td><td>Jusqu'à 8</td><td>Son puis LED</td><td>Non</td><td>Beaucoup de prises dans la journée</td></tr>
+<tr><td>Identités 817112</td><td>Boîte journalière</td><td>5</td><td>Son et vibration</td><td>Non précisé</td><td>La poche ou le sac</td></tr>
+<tr><td>InnovaGoods Pilly</td><td>Boîte journalière</td><td>Jusqu'à 5</td><td>Son et vibration</td><td>Non précisé</td><td>Une petite boîte étanche</td></tr>
+<tr><td>Pivotell Minitell</td><td>Boîte ronde de poche</td><td>Jusqu'à 5</td><td>Son, vibration ou les deux</td><td>Réglages seulement</td><td>Un grand écran lisible</td></tr>
+<tr><td>TabTime Timer</td><td>Minuteur sans compartiment</td><td>Jusqu'à 8</td><td>Son et lumière</td><td>Sans objet</td><td>Garder son pilulier habituel</td></tr>
+</tbody></table>
+
+<h2>1. Medelert : le distributeur qui n'ouvre que la bonne case (notre choix)</h2>
+<p><strong>Pour qui ?</strong> Une personne qui oublie si elle a pris son traitement, ou qui risque de prendre deux fois la même dose. Notre choix, parce qu'il est distribué en France avec une notice en français et qu'il répond au vrai danger : l'erreur de prise.</p>
+<ul>
+<li><strong>Points forts</strong> : carrousel verrouillé à clé qui ne délivre que le compartiment programmé. Programmable pour une semaine à 4 prises par jour, deux semaines à 2 prises ou 28 jours à 1 prise. 6 disques fournis. Alarme sonore (3 tonalités ou silence) et lumineuse, jusqu'à 30 minutes. Horloge radio-pilotée qui se règle seule, y compris pour l'heure d'été.</li>
+<li><strong>Données utiles</strong> : 4 piles AA fournies, 19 cm de diamètre, garantie 1 an. Distribué en France par Identités.</li>
+<li><strong>Limites</strong> : il faut retourner l'appareil pour faire tomber les comprimés, un geste à vérifier avec la personne. Le remplissage demande un proche ou une aide à domicile. Autonomie non précisée sur les pages françaises.</li>
+</ul>
+<p><a href="{AMZ:TabTime Medelert pilulier}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>2. Pivotell Mk3/11 : pour les traitements à prises nombreuses</h2>
+<p><strong>Pour qui ?</strong> Une personne dont le traitement compte beaucoup de prises dans la journée, ou des horaires très précis.</p>
+<ul>
+<li><strong>Points forts</strong> : plateau de 29 sections, jusqu'à 28 alarmes par jour, son (4 sonneries ou silence) et lumière clignotante. Fenêtre de prise et durée d'alarme réglables, mémoire des 28 dernières prises, alerte de piles faibles.</li>
+<li><strong>Données utiles</strong> : 4 piles AA, autonomie supérieure à un an selon la notice, 190 x 180 x 56 mm, 480 g avec piles.</li>
+<li><strong>Limites</strong> : la notice présente la clé comme une simple barrière supplémentaire, pas comme une sécurité absolue. Piles rechargeables déconseillées. Fiches lues en anglais.</li>
+</ul>
+<p><a href="{AMZ:Pivotell Mk3 distributeur automatique}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>3. Pivotell Advance : l'écran qui dit ce qui reste à prendre</h2>
+<p><strong>Pour qui ?</strong> Une personne qui aime voir l'information écrite : heure de la prochaine dose, doses restantes.</p>
+<ul>
+<li><strong>Points forts</strong> : 28 compartiments, 1 à 24 alarmes par jour, 4 sons et lumière clignotante, volet autobloquant contre le double dosage. Écran LCD avec heure, date, prochaine dose, doses restantes et niveau des piles.</li>
+<li><strong>Données utiles</strong> : piles AA alcalines ou rechargeables, autonomie jusqu'à 12 mois selon le revendeur. Alarme réglable jusqu'à 5 heures.</li>
+<li><strong>Limites</strong> : dimensions et poids non précisés. Fiche lue chez un revendeur britannique.</li>
+</ul>
+<p><a href="{AMZ:Pivotell Advance distributeur}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>4. LiveFine WiFi : pour suivre les prises à distance</h2>
+<p><strong>Pour qui ?</strong> Un proche qui habite loin et veut savoir si le traitement a été pris, avec une personne qui accepte cet appareil connecté.</p>
+<ul>
+<li><strong>Points forts</strong> : 28 compartiments, 9 anneaux de dosage interchangeables, jusqu'à 9 alarmes par jour, alerte sonore et visuelle (3 tonalités, 3 volumes). Wifi 2,4 GHz et application pour le suivi.</li>
+<li><strong>Données utiles</strong> : verrouillé à clé, couvercle transparent, alimentation par adaptateur USB-C avec 4 piles AA en secours.</li>
+<li><strong>Limites</strong> : il faut une box wifi et quelqu'un pour configurer l'application. La notice consultée ne précise pas le détail des notifications envoyées.</li>
+</ul>
+<p><a href="{AMZ:LiveFine pilulier automatique WiFi}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>5. Ivation GMIVPILLDW : un distributeur simple</h2>
+<p><strong>Pour qui ?</strong> Une personne qui prend son traitement 1 à 4 fois par jour et n'a pas besoin d'écran ni d'application.</p>
+<ul>
+<li><strong>Points forts</strong> : 4 disques interchangeables pour 1, 2, 3 ou 4 prises par jour, alarme sonore (3 tonalités ou silencieux), verrouillage à clé, indicateur de piles faibles.</li>
+<li><strong>Données utiles</strong> : 4 piles AA.</li>
+<li><strong>Limites</strong> : la notice lue ne mentionne pas d'alerte lumineuse, même si le titre de l'annonce l'indique. Nombre de compartiments, dimensions et autonomie non précisés.</li>
+</ul>
+<p><a href="{AMZ:Ivation distributeur automatique comprimes}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>6. TabTime Super 8 : jusqu'à 8 rappels dans la journée</h2>
+<p><strong>Pour qui ?</strong> Une personne autonome qui gère bien son traitement mais a beaucoup de prises à des heures différentes.</p>
+<ul>
+<li><strong>Points forts</strong> : 8 compartiments numérotés liés aux 8 alarmes, bip de 40 secondes puis LED rouge qui clignote jusqu'à l'ouverture. Volume réglable (65 ou 85 dB). Fermeture magnétique, notice avec une partie en français.</li>
+<li><strong>Données utiles</strong> : pile CR2032 fournie, 11 x 6 x 3 cm, garantie 12 mois après enregistrement.</li>
+<li><strong>Limites</strong> : non verrouillé, rien n'empêche d'ouvrir la mauvaise case. Petites cases.</li>
+</ul>
+<p><a href="{AMZ:TabTime Super 8}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>7. Identités pilulier journalier 5 alarmes : le format poche</h2>
+<p><strong>Pour qui ?</strong> Une personne active qui sort beaucoup et veut un rappel qui vibre, discret en public.</p>
+<ul>
+<li><strong>Points forts</strong> : 4 compartiments, 5 alarmes indépendantes d'une minute, son et vibration, écran LCD, compte à rebours.</li>
+<li><strong>Données utiles</strong> : 6,2 x 6,2 x 2 cm, 45 g, pile CR2032 fournie.</li>
+<li><strong>Limites</strong> : petit écran et petites cases. Une autre fiche Identités, au nom proche, donne des caractéristiques différentes : vérifiez la référence 817112 à l'achat.</li>
+</ul>
+<p><a href="{AMZ:Identites pilulier journalier electronique 5 alarmes}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>8. InnovaGoods Pilly : une petite boîte étanche</h2>
+<p><strong>Pour qui ?</strong> Une personne qui veut une boîte de poche avec rappel, sans fonctions compliquées.</p>
+<ul>
+<li><strong>Points forts</strong> : 4 compartiments, jusqu'à 5 alarmes par jour, son et vibration, fermeture étanche, horloge et minuteur.</li>
+<li><strong>Données utiles</strong> : environ 6,5 x 6,5 x 2 cm, pile fournie (CR2032 selon le fabricant).</li>
+<li><strong>Limites</strong> : poids et verrouillage non précisés. Taille d'écran non indiquée.</li>
+</ul>
+<p><a href="{AMZ:InnovaGoods Pilly pilulier}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>9. Pivotell Minitell : le plus lisible des modèles de poche</h2>
+<p><strong>Pour qui ?</strong> Une personne qui voit moins bien et a besoin d'un écran plus grand qu'une petite boîte classique.</p>
+<ul>
+<li><strong>Points forts</strong> : grand écran LCD rétroéclairé, 5 compartiments d'environ 10 ml, jusqu'à 5 alarmes par jour (ou 1 par jour pendant 5 jours), son, vibration ou les deux, fonction rappel. Un interrupteur verrouille les réglages.</li>
+<li><strong>Données utiles</strong> : 8 cm de diamètre, 3 cm de haut, 95 g.</li>
+<li><strong>Limites</strong> : les compartiments ne sont pas verrouillés. Alimentation non précisée sur la fiche lue.</li>
+</ul>
+<p><a href="{AMZ:Pivotell Minitell}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>10. TabTime Timer : garder son pilulier habituel</h2>
+<p><strong>Pour qui ?</strong> Une personne qui a déjà un pilulier semainier préparé par la pharmacie et veut juste un rappel sonore.</p>
+<ul>
+<li><strong>Points forts</strong> : jusqu'à 8 alarmes par jour, son et lumière clignotante pendant une minute, compte à rebours.</li>
+<li><strong>Données utiles</strong> : 8 x 5,6 x 2 cm, 88 g, une pile AAA fournie.</li>
+<li><strong>Limites</strong> : il rappelle l'heure, rien de plus. Il ne dit pas si la prise a été faite.</li>
+</ul>
+<p><a href="{AMZ:TabTime Timer 8 alarmes}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>Boîte à alarme ou distributeur : comment trancher ?</h2>
+<p>Posez-vous une question simple : que se passe-t-il aujourd'hui ? Si la personne oublie l'heure mais sait toujours ce qu'elle a pris, une <strong>boîte à alarme</strong> ou un <strong>minuteur</strong> suffit. Si elle ne se souvient plus d'avoir pris son comprimé, ou si l'on retrouve des cases pleines en fin de semaine, passez à un <strong>distributeur verrouillé</strong>.</p>
+<p>Notre conseil : avant d'acheter un distributeur, prévoyez qui va le remplir chaque semaine. C'est le maillon faible. Le pharmacien peut préparer les doses, et l'infirmier ou l'aide à domicile peut vérifier le remplissage. Tous les critères sont détaillés dans notre guide pour <a href="{R}pilulier/">choisir un pilulier</a>.</p>
+<p>Le pilulier n'est qu'un élément de la vie à la maison : retrouvez les autres aménagements dans <a href="{R}amenager-logement-personne-agee/">notre guide pour aménager le logement pièce par pièce</a>. Et si une personne qui vit seule a déjà oublié plusieurs prises, un <a href="{R}bouton-appel-urgence-senior/">bouton d'appel d'urgence</a> peut compléter l'équipement.</p>
+""",
+  faq=[("Quel pilulier électronique choisir pour une personne âgée ?", "Une boîte à alarme suffit si la personne oublie l'heure mais gère bien son traitement. Si elle ne sait plus si elle a pris sa dose, choisissez un distributeur automatique verrouillé, comme le Medelert, qui n'ouvre que la case du moment. Le pharmacien peut vous aider à choisir."),
+       ("Qui remplit un distributeur automatique de médicaments ?", "Un proche, une aide à domicile ou un infirmier, selon l'organisation. Le pharmacien peut aussi préparer les doses. Le remplissage doit être fait avec soin, car une erreur à ce moment se répète à chaque prise."),
+       ("Avez-vous testé ces piluliers ?", "Non. Cette sélection repose sur les caractéristiques publiées par les fabricants et les revendeurs, sans note ni avis de prise en main. Vérifiez la notice du modèle choisi.")],
+  short="Top 10 piluliers électroniques", cat="Vie quotidienne")
+
+AUTO_META['meilleur-telephone-fixe-senior/'] = ('🏆', 'ciel')
+g("meilleur-telephone-fixe-senior/",
+  "Meilleur téléphone fixe senior 2026 : 9 modèles amplifiés",
+  "Meilleur téléphone fixe pour senior : grosses touches, amplifié, touches photos",
+  "Grosses touches, son amplifié, touches photos, blocage d'appels ou touche SOS : 9 téléphones fixes pour seniors comparés d'après les fiches techniques.",
+  """
+<p>Pour une personne qui entend moins bien, le critère qui compte le plus est l'amplification de l'écoute, exprimée en décibels sur la fiche. Pour quelqu'un qui se trompe de numéro, ce sont les touches photos. Et pour celui qui reçoit des appels de démarchage à longueur de journée, c'est le blocage d'appels. Un bon téléphone senior coche au moins la case qui pose problème aujourd'hui.</p>
+<p>Nous avons retenu neuf modèles encore vendus en France, filaires et sans fil. Nous en avons écarté plusieurs annoncés en fin de vie par les revendeurs.</p>
+{CTA}
+<div class="note"><strong>Comment nous avons fait cette sélection</strong> : à partir des fiches publiées par les fabricants et les revendeurs (boutique La Poste, revendeurs de bureautique et d'informatique), sans test en main. Nous n'indiquons que les chiffres lus sur ces fiches ; quand une donnée n'y figure pas, nous écrivons « non précisé ». Les fabricants mesurent l'amplification de façons différentes : comparez les chiffres avec prudence. Pour une perte d'audition, l'audioprothésiste reste le meilleur conseil.</div>
+<h2>Les 9 téléphones en un tableau</h2>
+<table><thead><tr><th>Modèle</th><th>Type</th><th>Amplification</th><th>Sonnerie</th><th>Plus utile</th><th>Idéal pour</th></tr></thead><tbody>
+<tr><td>Geemarc AmpliDECT 595 U.L.E</td><td>Sans fil</td><td>Jusqu'à +50 dB</td><td>Jusqu'à +80 dB</td><td>Touche SOS, mode VIP</td><td>Notre choix : le plus complet</td></tr>
+<tr><td>Panasonic KX-TGM420</td><td>Sans fil</td><td>Jusqu'à 40 dB</td><td>100 dB sur la base</td><td>Blocage d'appels, voix lente</td><td>Grand démarchage, son fort</td></tr>
+<tr><td>Geemarc AmpliDECT Combi 295</td><td>Filaire + combiné sans fil</td><td>Jusqu'à 30 dB</td><td>80 dB (base)</td><td>3 touches photos</td><td>Deux postes dans la maison</td></tr>
+<tr><td>Amplicomms BigTel 40 Plus</td><td>Filaire</td><td>Jusqu'à +40 dB</td><td>Jusqu'à +90 dB</td><td>6 touches photos, flash</td><td>Forte perte d'audition</td></tr>
+<tr><td>Geemarc Photophone 110</td><td>Filaire</td><td>Jusqu'à 30 dB</td><td>Jusqu'à 85 dB</td><td>8 touches photos, appel d'urgence</td><td>Ne plus composer de numéro</td></tr>
+<tr><td>Swissvoice Xtra 1110</td><td>Filaire</td><td>Jusqu'à +30 dB</td><td>Jusqu'à 85 dB</td><td>6 touches photos, écran</td><td>Voir qui appelle</td></tr>
+<tr><td>Doro PhoneEasy 110</td><td>Sans fil</td><td>Voir détail</td><td>90 dB(A)</td><td>Touches parlantes</td><td>Vue qui baisse</td></tr>
+<tr><td>Amplicomms BigTel 48 Plus</td><td>Filaire</td><td>Boost +40 dB</td><td>Jusqu'à 90 dB</td><td>Fonctionne sans alimentation</td><td>Coupure de courant</td></tr>
+<tr><td>Gigaset E290</td><td>Sans fil</td><td>Audio Boost (dB non précisé)</td><td>Non précisé</td><td>Blocage de 32 numéros</td><td>Un sans-fil simple</td></tr>
+</tbody></table>
+
+<h2>1. Geemarc AmpliDECT 595 U.L.E : le plus complet (notre choix)</h2>
+<p><strong>Pour qui ?</strong> Une personne qui vit seule, entend mal et reçoit des appels indésirables. Notre choix, parce qu'il traite les trois problèmes à la fois.</p>
+<ul>
+<li><strong>Points forts</strong> : amplification jusqu'à +50 dB, sonnerie jusqu'à +80 dB avec flash lumineux. Touche SOS rouge qui appelle jusqu'à 4 proches en boucle. Mode VIP qui n'accepte que les numéros enregistrés (jusqu'à 50). Répondeur de 30 minutes consultable à distance.</li>
+<li><strong>Données utiles</strong> : combiné sans fil, portée de 50 m en intérieur et 300 m en extérieur, environ 8 h en conversation, compatible avec les box des principaux opérateurs selon le revendeur.</li>
+<li><strong>Limites</strong> : environ 2 jours en veille seulement : le combiné doit retourner sur sa base chaque jour. Le mode VIP bloque aussi le médecin ou l'infirmier s'ils ne sont pas enregistrés.</li>
+</ul>
+<p><a href="{AMZ:Geemarc AmpliDECT 595 ULE}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>2. Panasonic KX-TGM420 : contre le démarchage, avec un son très fort</h2>
+<p><strong>Pour qui ?</strong> Une personne qui entend mal et que les appels commerciaux fatiguent ou inquiètent.</p>
+<ul>
+<li><strong>Points forts</strong> : amplification jusqu'à 40 dB, sonnerie de 100 dB sur la base, blocage avancé des appels indésirables (par numéro ou préfixe). Mode voix lente qui ralentit la parole de l'interlocuteur, réduction du bruit, mode « Ne pas déranger ». Compatible avec les aides auditives.</li>
+<li><strong>Données utiles</strong> : écran rétroéclairé de 1,8 pouce, répondeur de 30 minutes avec annonce vocale des messages, 13 h en conversation et 216 h en veille.</li>
+<li><strong>Limites</strong> : beaucoup de fonctions, donc des menus à régler au départ par un proche. Touches mémoires directes non précisées.</li>
+</ul>
+<p><a href="{AMZ:Panasonic KX-TGM420}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>3. Geemarc AmpliDECT Combi 295 : un fixe et un sans-fil</h2>
+<p><strong>Pour qui ?</strong> Une maison à étage, ou une personne qui veut un poste fixe au salon et un combiné dans la chambre.</p>
+<ul>
+<li><strong>Points forts</strong> : base filaire et combiné sans fil, amplification jusqu'à 30 dB, sonnerie de 80 dB sur la base et 70 dB sur le combiné. 4 touches mémoires directes dont 3 touches photos. Mains libres sur la base et le combiné, interphone entre les deux.</li>
+<li><strong>Données utiles</strong> : répondeur de 15 minutes, répertoire de 50 numéros, prise casque, montage mural, 8 h d'utilisation pour le combiné.</li>
+<li><strong>Limites</strong> : amplification plus modeste que les modèles précédents. Blocage d'appels non précisé.</li>
+</ul>
+<p><a href="{AMZ:Geemarc AmpliDECT Combi 295}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>4. Amplicomms BigTel 40 Plus : pour une forte perte d'audition</h2>
+<p><strong>Pour qui ?</strong> Une personne qui entend vraiment mal au téléphone et rate souvent la sonnerie.</p>
+<ul>
+<li><strong>Points forts</strong> : amplification jusqu'à +40 dB avec touche boost, sonnerie jusqu'à +90 dB et flash lumineux à l'appel. 6 touches photos et 10 numéros abrégés, grandes touches contrastées.</li>
+<li><strong>Données utiles</strong> : filaire, fixation murale possible, compatible avec les aides auditives.</li>
+<li><strong>Limites</strong> : filaire, donc on répond là où il est installé. Écran, répondeur et mains libres non précisés sur la fiche lue.</li>
+</ul>
+<p><a href="{AMZ:Amplicomms BigTel 40 Plus}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>5. Geemarc Photophone 110 : appeler en touchant une photo</h2>
+<p><strong>Pour qui ?</strong> Une personne qui ne parvient plus à composer un numéro ou à se servir d'un répertoire, par exemple avec des troubles de la mémoire.</p>
+<ul>
+<li><strong>Points forts</strong> : 8 touches photos, grosses touches, amplification jusqu'à 30 dB, sonnerie jusqu'à 85 dB, mains libres. Appel automatique d'urgence vers 3 numéros préprogrammés.</li>
+<li><strong>Données utiles</strong> : filaire, montage mural, compatible avec les aides auditives.</li>
+<li><strong>Limites</strong> : pas d'écran ni de répondeur : on ne voit pas qui appelle.</li>
+</ul>
+<p><a href="{AMZ:Geemarc Photophone 110}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>6. Swissvoice Xtra 1110 : touches photos et écran</h2>
+<p><strong>Pour qui ?</strong> Une personne qui veut des touches photos mais aussi savoir qui l'appelle avant de décrocher.</p>
+<ul>
+<li><strong>Points forts</strong> : 6 touches mémoires avec photos et 2 directes, grand écran rétroéclairé avec identification de l'appelant, Audio Boost jusqu'à +30 dB, sonnerie jusqu'à 85 dB, indicateur lumineux d'appel, mains libres, égaliseur de voix.</li>
+<li><strong>Données utiles</strong> : filaire, compatible avec les prothèses auditives. Une touche mémoire peut être dédiée à un numéro d'urgence.</li>
+<li><strong>Limites</strong> : pas de répondeur. Pas de vraie touche SOS qui appelle plusieurs numéros.</li>
+</ul>
+<p><a href="{AMZ:Swissvoice Xtra 1110}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>7. Doro PhoneEasy 110 : des touches qui parlent</h2>
+<p><strong>Pour qui ?</strong> Une personne dont la vue baisse : chaque chiffre est annoncé à voix haute quand on appuie dessus.</p>
+<ul>
+<li><strong>Points forts</strong> : touches parlantes, sonnerie de 90 dB(A) à un mètre, indicateur visuel de sonnerie, mains libres à 5 niveaux, écran rétroéclairé de 23 x 38 mm, répertoire de 100 contacts.</li>
+<li><strong>Données utiles</strong> : sans fil, jusqu'à 10 h en conversation, portée de 50 m en intérieur, jusqu'à 5 combinés par base.</li>
+<li><strong>Limites</strong> : les fiches ne s'accordent pas sur l'amplification (+10 dB pour la touche dédiée chez Doro, jusqu'à 30 dB chez un revendeur). Répondeur non précisé.</li>
+</ul>
+<p><a href="{AMZ:Doro PhoneEasy 110}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>8. Amplicomms BigTel 48 Plus : il marche même sans courant</h2>
+<p><strong>Pour qui ?</strong> Une personne qui veut un poste de secours sur une ligne qui le permet, avec deux numéros importants à portée de doigt.</p>
+<ul>
+<li><strong>Points forts</strong> : selon le revendeur, il fonctionne sans piles ni alimentation. Touche Audio Boost +40 dB, sonnerie jusqu'à 90 dB, indicateur d'appel rouge très lumineux, 2 touches mémoires directes et 10 indirectes.</li>
+<li><strong>Données utiles</strong> : grand écran alphanumérique, agenda de 32 noms.</li>
+<li><strong>Limites</strong> : pas de touches photos. Sur la fibre, la ligne fixe passe par la box, qui elle a besoin de courant. La fiche lue se contredit sur le type (filaire dans le texte, sans fil dans un tableau) : vérifiez à l'achat.</li>
+</ul>
+<p><a href="{AMZ:Amplicomms BigTel 48 Plus}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>9. Gigaset E290 : un sans-fil simple qui bloque les numéros</h2>
+<p><strong>Pour qui ?</strong> Une personne qui entend encore correctement mais veut de très grosses touches et un écran contrasté.</p>
+<ul>
+<li><strong>Points forts</strong> : très larges touches, écran rétroéclairé noir et blanc à fort contraste, mode volume élevé Audio Boost, blocage de 32 numéros, répertoire de 150 contacts.</li>
+<li><strong>Données utiles</strong> : sans fil DECT. Version E290A avec répondeur disponible.</li>
+<li><strong>Limites</strong> : amplification et volume de sonnerie non chiffrés. Pas une solution pour une forte perte d'audition.</li>
+</ul>
+<p><a href="{AMZ:Gigaset E290}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>Quelle fonction regarder en premier ?</h2>
+<p>Partez du problème le plus gênant. <strong>L'audition</strong> : visez une amplification chiffrée d'au moins 30 dB et un flash lumineux pour la sonnerie. <strong>La mémoire</strong> : des touches photos, sans menu. <strong>La vue</strong> : grosses touches contrastées, touches parlantes. <strong>Le démarchage</strong> : un blocage d'appels ou un mode qui n'accepte que les contacts connus.</p>
+<p>Notre conseil : un sans-fil est plus pratique, mais il faut penser à le reposer sur sa base. Pour une personne qui l'oublie partout, un filaire bien placé au salon, avec un deuxième poste dans la chambre, évite le combiné déchargé au mauvais moment. Tous les critères sont détaillés dans notre guide du <a href="{R}telephone-fixe-grosses-touches/">téléphone fixe à grosses touches</a>. Pour la télévision, voyez aussi notre <a href="{R}meilleur-casque-tv-senior/">sélection de casques TV</a>.</p>
+<p>Retrouvez les autres équipements utiles dans <a href="{R}amenager-logement-personne-agee/">notre guide pour aménager le logement pièce par pièce</a>. Si l'audition baisse, un rendez-vous chez le médecin traitant ou l'ORL, puis chez l'audioprothésiste, peut changer bien plus qu'un téléphone.</p>
+""",
+  faq=[("Quel est le meilleur téléphone fixe pour une personne âgée ?", "Cela dépend de sa difficulté principale. Pour une personne qui entend mal, regardez l'amplification en décibels et la sonnerie lumineuse. Pour les troubles de mémoire, les touches photos. Le Geemarc AmpliDECT 595 U.L.E réunit amplification, touche SOS et blocage des appels inconnus."),
+       ("Un téléphone fixe amplifié fonctionne-t-il avec une box internet ?", "Oui, il se branche sur la prise téléphone de la box. Certaines fiches, comme celle du Geemarc 595 U.L.E, mentionnent la compatibilité avec les box des grands opérateurs. En cas de coupure de courant, la box s'éteint et la ligne fixe aussi."),
+       ("Avez-vous testé ces téléphones ?", "Non. Cette sélection repose sur les caractéristiques publiées par les fabricants et les revendeurs, sans note ni avis de prise en main. Vérifiez la notice du modèle choisi.")],
+  short="Top 9 téléphones fixes senior", cat="Vie quotidienne")
