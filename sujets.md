@@ -1,5 +1,8 @@
 # Sujets d'articles à venir pour Vieillir chez soi (un tous les 2 jours)
 # Format : - [ ] slug/ | requête visée | catégorie | angle
+- [ ] cadeau-aidant-familial/ | cadeau pour un aidant familial | Conseils pour les proches
+- [ ] cadeau-noel-grand-parent-plus-de-80-ans/ | cadeau de Noël grand-père grand-mère plus de 80 ans | Vie quotidienne
+- [x] cadeau-noel-personne-agee-a-domicile/ | idées cadeaux de Noël pour une personne âgée qui vit chez elle | Vie quotidienne | demandé par Jeremy le 22 nov 2026, publié le 22 nov
 - [x] livres-audio-personne-agee/ | livre audio pour personne âgée | Vie quotidienne | quand la vue baisse, comment écouter (enceinte simple, téléphone, tablette, casque), trouver des livres audio, installer avec son proche ; lien {AUDIBLE} vers l'essai gratuit en bonne place et liens {AMZ} vers les appareils
 - [x] date-paiement-retraite-decembre-2026/ | date paiement retraite décembre 2026 | Retraite | dates de versement de décembre 2026 pour le régime général (Assurance retraite, MSA si vérifié) et l'Agirc-Arrco, lues sur les calendriers officiels ; tableau par caisse ; si une date n'est pas trouvée, le dire ; lien vers la page générale date-paiement-retraite/ si elle existe
 - [x] ccas-aides-personnes-agees/ | CCAS aides personnes âgées | Conseils pour les proches | ce qu'est le CCAS, les aides qu'il peut proposer aux seniors (variables selon les communes), comment le contacter ; sources service-public.fr
@@ -55,7 +58,7 @@
 - [ ] teleassistance-prise-en-charge/ | téléassistance prise en charge | Sécurité | APA, caisses de retraite, mutuelles, communes et départements, crédit d'impôt si vérifié ; lien vers teleassistance-comment-ca-marche/ et le top bouton d'appel
 - [ ] grille-aggir-gir/ | grille AGGIR GIR | Conseils pour les proches | les 6 GIR expliqués simplement, qui évalue, à quoi ça sert (APA, aides caisses de retraite), liens vers apa et aide ménagère
 - [ ] hebergement-temporaire-personne-agee/ | hébergement temporaire EHPAD | Conseils pour les proches | quand y recourir (sortie d'hôpital, répit, absence de l'aidant), durée, coût et aides, comment réserver
-- [ ] cadeau-personne-agee-qui-a-tout/ | cadeau pour personne âgée qui a tout | Vie quotidienne | idées utiles et de lien (cadre photo connecté, livres audio {AUDIBLE}, sorties, temps passé ensemble), angle Noël 2026
+- [ ] cadeau-personne-agee-qui-a-tout/ | cadeau pour personne âgée qui a tout | Vie quotidienne | idées utiles et de lien (cadre photo connecté, livres audio {AUDIBLE}, sorties, temps passé ensemble), valable toute l'année (anniversaire, fête des mères ou des pères) ; PAS d'angle Noël pour ne pas doubler cadeau-noel-personne-agee-a-domicile/ (relie-la) ; privilégier les expériences et le temps partagé plutôt que les objets
 - [ ] mandat-de-protection-future/ | mandat de protection future | Argent et patrimoine | anticiper la perte d'autonomie, sous seing privé ou notarié, démarche ; sources service-public.fr ou justice.fr
 - [ ] leve-personne-domicile/ | lève-personne à domicile | Chambre et repos | pour qui, électrique ou manuel, achat ou location, prise en charge sur prescription, formation des aidants ; lien vers un top disque de transfert
 - [ ] calcul-retraite/ | comment est calculée la retraite | Retraite | salaire annuel moyen, taux, trimestres, complémentaire en points, simulateur officiel (info-retraite.fr), exemple simple sans chiffre inventé
